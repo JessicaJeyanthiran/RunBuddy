@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://lergithub.io/run-buddy/
+https://jessicajeyanthiran.github.io/RunBuddy/
 
 ## Contribution
 Made with ❤️ by Jessica Jeyanthiran
