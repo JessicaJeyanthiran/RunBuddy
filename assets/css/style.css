@@ -368,10 +368,12 @@ section {
     flex: 1;
     background: var(--secondary-color);
     color: var(--primary-color);
+    border-radius: 10px;
 }
 
 .trainer img {
     width: 100%;
+    border-top-left-radius: 10px;
 }
   
 .trainer-bio {
