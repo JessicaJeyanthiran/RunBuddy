@@ -22,7 +22,7 @@ To run this website, visit the live application at https://jessicajeyanthiran.gi
 
 Hero
 
-![Project Screenshot](/assets/images/screenshot1.jpg)
+![Project Screenshot](./assets/images/screenshot1.png)
 
 What We Do Section
 
