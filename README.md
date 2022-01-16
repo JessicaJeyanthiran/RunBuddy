@@ -26,19 +26,19 @@ Hero
 
 What We Do Section
 
-![Project Screenshot](/assets/images/screenshot2.jpg)
+![Project Screenshot](/assets/images/screenshot2.png)
 
 What You Do Section
 
-![Project Screenshot](/assets/images/screenshot3.jpg)
+![Project Screenshot](/assets/images/screenshot3.png)
 
 Meet the Team Section
 
-![Project Screenshot](/assets/images/screenshot4.jpg)
+![Project Screenshot](/assets/images/screenshot4.png)
 
 Reach Out Section
 
-![Project Screenshot](/assets/images/screenshot5.jpg)
+![Project Screenshot](/assets/images/screenshot5.png)
 
 ## Contribution
 Made with ❤️ by Jessica Jeyanthiran
