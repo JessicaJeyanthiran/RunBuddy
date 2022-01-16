@@ -22,23 +22,23 @@ To run this website, visit the live application at https://jessicajeyanthiran.gi
 
 Hero
 
-![Project Screenshot](./assets/images/screenshot1.png)
+![Project Screenshot](./assets/images/screenshot1.PNG)
 
 What We Do Section
 
-![Project Screenshot](/assets/images/screenshot2.png)
+![Project Screenshot](./assets/images/screenshot2.PNG)
 
 What You Do Section
 
-![Project Screenshot](/assets/images/screenshot3.png)
+![Project Screenshot](/assets/images/screenshot3.PNG)
 
 Meet the Team Section
 
-![Project Screenshot](/assets/images/screenshot4.png)
+![Project Screenshot](/assets/images/screenshot4.PNG)
 
 Reach Out Section
 
-![Project Screenshot](/assets/images/screenshot5.png)
+![Project Screenshot](/assets/images/screenshot5.PNG)
 
 ## Contribution
 Made with ❤️ by Jessica Jeyanthiran
